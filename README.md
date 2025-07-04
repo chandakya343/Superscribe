@@ -1,6 +1,7 @@
 # SuperScribe: Voice-to-Text Transcription Assistant
 
 A powerful voice-to-text transcription tool that transforms your spoken words into written text exactly where your cursor is positioned.
+(For windows only my friends tell me mac has something like that built in)
 
 ## Features
 
